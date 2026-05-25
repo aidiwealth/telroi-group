@@ -59,7 +59,7 @@ onMounted(() => {
           <div class="stat-k">Transactions Processed</div>
         </div>
         <div class="stat reveal reveal-d-3">
-          <div class="stat-v"><span data-counter data-to="70">0</span>+</div>
+          <div class="stat-v"><span data-counter data-to="70">0</span>span class="unit">+</span></div>
           <div class="stat-k">Employees Across the Group</div>
         </div>
         <div class="stat reveal reveal-d-3">

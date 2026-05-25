@@ -20,7 +20,7 @@
         "../node_modules/unplugin-vue-router/client"
       ],
       "@nuxt/schema": [
-        "../node_modules/nuxt/node_modules/@nuxt/schema"
+        "../node_modules/@nuxt/schema"
       ],
       "defu": [
         "../node_modules/defu"
@@ -116,7 +116,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/0caeba32-5bc0-43b5-a0a2-a312a0a0e612"
       ],
       "#components": [
         "./components"
@@ -170,6 +170,6 @@
     "../.data",
     "../node_modules/runtime/server",
     "../node_modules/dist/runtime/server",
-    "dev"
+    "../.output"
   ]
 }
