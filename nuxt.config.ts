@@ -11,6 +11,12 @@ export default defineNuxtConfig({
 
   app: {
     head: {
+      script: [
+        {
+        src: "https://app.telroi.ai/widget/v1.js",
+        "data-telroi-key": "wgt_8c4b1d8529f9d0a89d82fd9f2f7fa3f9",
+      }
+      ],
       htmlAttrs: { lang: 'en' },
       title: 'The Telroi Group — Strategic Holdings',
       meta: [
