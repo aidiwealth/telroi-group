@@ -14,7 +14,7 @@ export default defineNuxtConfig({
       script: [
         {
         src: "https://app.telroi.ai/widget/v1.js",
-        "data-telroi-key": "wgt_8c4b1d8529f9d0a89d82fd9f2f7fa3f9",
+        "data-telroi-key": "wgt_ec9ae0fdd28f1a2a4a73b0a65dde9437",
       }
       ],
       htmlAttrs: { lang: 'en' },
