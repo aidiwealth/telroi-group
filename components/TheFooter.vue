@@ -43,7 +43,7 @@ onMounted(() => {
     <div class="wrap footer-wrap">
       <div class="footer-legal">
         <div>© 2026 Telroi LLC · All rights reserved.</div>
-        <div class="footer-affiliate-quiet">A Telroi LLC company. Affiliated with Aidi Ventures Group.</div>
+        <div class="footer-affiliate-quiet">A Telroi LLC company. A member of The Aidi Group.</div>
       </div>
       <div class="footer-disclaimer">
         <p>

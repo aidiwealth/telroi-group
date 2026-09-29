@@ -32,7 +32,7 @@ export default defineNuxtConfig({
         {
           name: 'keywords',
           content:
-            'The Telroi Group, Telroi, Telroi.ai, Termii, Sotel, Siu Telecoms, strategic holdings, US holding company, telecommunications, AI infrastructure, voice infrastructure, communications, connectivity, emerging markets, Aidi Ventures, California holding entity, portfolio company'
+            'The Telroi Group, Telroi, Telroi.ai, Termii, Sotel, Siu Telecoms, strategic holdings, US holding company, telecommunications, AI infrastructure, voice infrastructure, communications, connectivity, emerging markets, The Aidi Group, Delaware holding entity, portfolio company'
         },
         { name: 'author', content: 'The Telroi Group' },
         { name: 'robots', content: 'index, follow' },
