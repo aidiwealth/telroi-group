@@ -27,7 +27,7 @@ export default defineNuxtConfig({
         {
           name: 'description',
           content:
-            'A US strategic holdings entity owning Telroi.ai outright and holding strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
+            'A strategic holding company that wholly owns Telroi.ai and holds strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
         },
         {
           name: 'keywords',
@@ -45,7 +45,7 @@ export default defineNuxtConfig({
         {
           property: 'og:description',
           content:
-            'A US strategic holdings entity owning Telroi.ai outright and holding strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
+            'A strategic holding company that wholly owns Telroi.ai and holds strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
         },
         { property: 'og:url', content: 'https://telroi.com/' },
         { property: 'og:image', content: 'https://telroi.com/favicon-512x512.png' },
@@ -59,7 +59,7 @@ export default defineNuxtConfig({
         {
           name: 'twitter:description',
           content:
-            'A US strategic holdings entity owning Telroi.ai outright and holding strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
+            'A strategic holding company that wholly owns Telroi.ai and holds strategic interests in independent communications, connectivity, technology, and AI businesses globally.'
         },
         { name: 'twitter:image', content: 'https://telroi.com/favicon-512x512.png' }
       ],

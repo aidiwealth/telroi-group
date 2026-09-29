@@ -26,10 +26,10 @@ onMounted(() => {
         Building infrastructure where it matters most.
       </div>
       <div class="footer-meta">
-        <a href="mailto:partners@telroi.com" class="footer-contact">partners@telroi.com</a>
+        <a href="mailto:partners@telroigroup.com" class="footer-contact">partners@telroigroup.com</a>
         <div class="footer-address">
-          6203 San Ignacio Ave, Ste 110<br>
-          San Jose, California 95119, US
+          6472 Camden Ave, Suite 204<br>
+          San Jose, CA 95120, US
         </div>
         <div class="footer-locs">
           <span>San Jose</span>

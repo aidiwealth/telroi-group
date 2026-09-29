@@ -99,10 +99,10 @@ onMounted(() => {
         </div>
       </h1>
       <p class="statement hero-fade">
-        Building AI-native infrastructure for the next intelligent world.
+        Building AI-native infrastructure for an intelligent world.
       </p>
       <p class="lead hero-fade">
-        The Telroi Group is a US-based strategic holdings entity — owning Telroi.ai outright and holding strategic interests in independent communications, connectivity, technology, and AI businesses globally.
+        The Telroi Group is a strategic holding company that wholly owns Telroi.ai and holds strategic interests in independent communications, connectivity, technology, and AI businesses globally.
       </p>
       <a href="#what" class="signpost hero-fade">What we do</a>
     </div>
